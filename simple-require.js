@@ -37,7 +37,7 @@
   }
 
   function canLog(){
-    return console && console.error
+    return window.console && console.error
   }
 
   function hasProps(obj){

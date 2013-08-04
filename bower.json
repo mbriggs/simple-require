@@ -1,0 +1,12 @@
+{
+  "name": "simple-require",
+  "version": "0.1.0",
+  "main": "simple-require.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
